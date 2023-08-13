@@ -1,8 +1,8 @@
 <h1>Hey there, Im Steph! <br/><a href="https://www.linkedin.com/in/stephanie-sbiggs/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - []([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/joshmadakor1/Jwipe.PowerShell/blob/master/README.md))
+- [Active Directory Home Lab]
+
 
 <h2> 🤳 Connect with me:</h2>
 
