@@ -22,10 +22,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on THM Active Directory module!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Active Directory Basics 
+- 👯 I’m looking to collaborate on any projects involving IOT!
+- 🤔 I’m looking for help with understandng how to time manage when upskilling in Cybersecueirty
 - 📫 How to reach me: stephaniebiggs18@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Programming Languages and programs:
+- Python
+- Java
+- MS SQL
 -->
