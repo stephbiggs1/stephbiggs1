@@ -1,7 +1,7 @@
 <h1>Hey there, Im Steph! <br/><a href="https://www.linkedin.com/in/stephanie-sbiggs/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab]
+- Active Directory Home Lab
 
 
 <h2> 🤳 Connect with me:</h2>
