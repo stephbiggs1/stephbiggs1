@@ -19,8 +19,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on THM Active Directory module!
 - 🌱 I’m currently learning Active Directory Basics 
 - 👯 I’m looking to collaborate on any projects involving IOT!
