@@ -3,6 +3,7 @@
 
 - <a href="https://github.com/stephbiggs1/ActiveDirectoryLab">Active Directory Home Lab</a>
 - <a href="https://github.com/stephbiggs1/-Walking-an-Application">Walking an Application Lab</a>
+- <a href="https://github.com/stephbiggs1/Order-Receipt/blob/main/README.md">Loveseat Reciept Python Project</a>
 
 <h2> 🤳 Connect with me:</h2>
 
