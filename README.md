@@ -1,7 +1,6 @@
 <h1>Hey there, Im Steph! <br/><a href="https://www.linkedin.com/in/stephanie-sbiggs/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <a href="https://github.com/stephbiggs1/ActiveDirectoryLab">Active Directory Home Lab</a>
 - <a href="https://github.com/stephbiggs1/-Walking-an-Application">Walking an Application Lab</a>
 - <a href="https://github.com/stephbiggs1/Order-Receipt/blob/main/README.md">Loveseat Reciept Python Project</a>
 
