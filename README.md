@@ -11,21 +11,21 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com
-[instagram]: https://www.instagram.com
-[linkedin]: https://linkedin.com
+
+[youtube]: [https://www.youtube.com](https://www.youtube.com/@msstephbiggs)
+[linkedin]: [https://linkedin.com](https://www.linkedin.com/in/stephanie-sbiggs/)
 
 
 
 
-- 🔭 I’m currently working on THM Active Directory module!
-- 🌱 I’m currently learning Active Directory Basics 
-- 👯 I’m looking to collaborate on any projects involving IOT!
-- 🤔 I’m looking for help with understandng how to time manage when upskilling in Cybersecueirty
+- 🔭 I’m currently working on learning Front End Development!
+- 🌱 I’m currently learning Javascript 
+- 👯 I’m looking to collaborate on any projects involving Front End Dev!
+- 🤔 I’m looking for help with understandng ...
 - 📫 How to reach me: stephaniebiggs18@gmail.com
 - ⚡ Programming Languages and programs:
 - Python
+- HTML/CSS
+- Javascript
 - Java
-- MS SQL
 -->
